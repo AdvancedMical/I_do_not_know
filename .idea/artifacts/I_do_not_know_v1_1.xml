@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="I_do_not_know v1.1">
+    <output-path>$PROJECT_DIR$/out/artifacts/I_do_not_know_v1_1</output-path>
+    <root id="archive" name="I_do_not_know v1.1.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="I_do_not_know" />
+    </root>
+  </artifact>
+</component>
